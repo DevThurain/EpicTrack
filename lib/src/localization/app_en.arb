@@ -1,0 +1,6 @@
+{
+  "appTitle": "epic_track",
+  "@appTitle": {
+    "description": "The title of the application"
+  }
+}
